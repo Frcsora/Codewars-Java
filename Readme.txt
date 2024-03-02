@@ -1,1 +1,1 @@
-# Repositori de Francesc Sorà Quevedo amb exercicis de programació
+Repositori de Francesc Sorà Quevedo amb exercicis de programació
